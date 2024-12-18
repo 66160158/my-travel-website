@@ -23,6 +23,15 @@ body {
    .nav-list a:hover {
     color: #d506ff;
    }
+   /* Box Model Practice */
+.content-box {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    background-color: white;
+   }  
    /* Animations */
 @keyframes slideIn {
     from {
